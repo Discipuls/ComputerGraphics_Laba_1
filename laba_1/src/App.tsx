@@ -349,7 +349,7 @@ function App() {
       <Box width="100%">
         <Box  textAlign='center' backgroundColor="#ff3333" width="max-content"  display={errorMessage}
          color="white" margin="auto" padding="10px" marginTop="10px" rounded="50px" className='round-shadow' >
-        Data is missing during convert: to LAB
+        Data is missing during convert: LAB
         </Box>
       </Box>
     </Box >
