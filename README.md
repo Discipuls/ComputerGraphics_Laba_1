@@ -25,6 +25,12 @@ Create a web application that allows the user to select and then interactively c
 - The ability to set the color in each of the three models in three ways: **20 points**.
 - Automatic recalculation of the color in all models when changing any of the coordinates: **20 points**.
 
+## Dependencies:
+- "@types/react": "^18.3.5",
+- "@types/react-color": "^3.0.12",
+- "@types/react-dom": "^18.3.0",
+- "autoprefixer": "^10.4.20",
+- "postcss": "^8.4.44"
 
 # Getting Started with Create React App
 
