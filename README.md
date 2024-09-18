@@ -1,4 +1,5 @@
-Site is available on https://laba-1.vercel.app/
+- Site is available on https://laba-1.vercel.app/
+- Screenshot - https://raw.githubusercontent.com/Discipuls/ComputerGraphics_Laba_1/refs/heads/main/Screenshot_1.png
 
 # Task
 
