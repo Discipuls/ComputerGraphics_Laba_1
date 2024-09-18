@@ -1,3 +1,5 @@
+Site is available on https://laba-1.vercel.app/
+
 # Task
 
 To study the color models: RGB, HSV, LAB, the transition from one model to another, to explore the color graph of the MCO.
