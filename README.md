@@ -1,6 +1,11 @@
 - Site is available on https://laba-1.vercel.app/
 - Screenshot - https://raw.githubusercontent.com/Discipuls/ComputerGraphics_Laba_1/refs/heads/main/Screenshot_1.png
 
+# Tachnologies
+- React
+- Typescript
+- ChackraUI
+
 # Task
 
 To study the color models: RGB, HSV, LAB, the transition from one model to another, to explore the color graph of the MCO.
